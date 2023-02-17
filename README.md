@@ -1,3 +1,3 @@
 ﻿# UpFly-test
 
-Thats test tusk to show my skills in HTML, CSS an JS to UpFly company
+Thats test task to show my skills in HTML, CSS an JS to UpFly company

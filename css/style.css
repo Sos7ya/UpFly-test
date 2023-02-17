@@ -1,5 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Lato:wght@300&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Lato:wght@300&display=swap'); */
+
+@font-face {
+    font-family: 'Garamond';
+    src: url("../fonts/garamond.ttf") format('ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url("../fonts/Lato-Light.ttf") format('ttf');
+}
 
 body {
     background: #F6F6F5;
@@ -16,7 +26,7 @@ body {
 }
 
 .links a{
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Garamond', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 1.3rem;
@@ -26,7 +36,7 @@ body {
 }
 
 .phone a{
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Garamond', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 1.3rem;
@@ -74,7 +84,7 @@ body {
 }
 
 .content-container p {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     font-style: normal;
     font-weight: 300;
     font-size: 1.3rem;
