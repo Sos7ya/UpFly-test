@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-
     const burgerContainer = document.querySelector('.burger-container-mini');
     const krest = document.querySelector('.krest');
     const burgerMenu = document.querySelector('.burger-menu');
