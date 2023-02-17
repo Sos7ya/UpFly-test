@@ -22,11 +22,11 @@ body {
 
 .links {
     width: 45%;
-    height: 2.5rem;
+    height: 2rem;
 }
 
 .links a{
-    font-family: 'Garamond', serif;
+    font-family: 'Garamond';
     font-style: normal;
     font-weight: 400;
     font-size: 1.3rem;
@@ -36,7 +36,7 @@ body {
 }
 
 .phone a{
-    font-family: 'Garamond', serif;
+    font-family: 'Garamond';
     font-style: normal;
     font-weight: 400;
     font-size: 1.3rem;
